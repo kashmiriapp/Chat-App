@@ -24,6 +24,7 @@ let user;
 // signup function
 function signUp() {
     var name = document.getElementById('name').value;
+    state = document.getElementById('state').value;p
     var email = document.getElementById('email').value;
     var pass = document.getElementById('pwd').value;
 
